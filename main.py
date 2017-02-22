@@ -189,4 +189,4 @@ if __name__ == '__main__':
     time.sleep(2)
     LCD.lcd_clear()
     LCD.backlight(0)
-    #os.system("sudo poweroff")
+    os.system("sudo poweroff")
